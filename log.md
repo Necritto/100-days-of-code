@@ -27,3 +27,16 @@
 **Thoughts:** Carelessness makes you sit and debase the code more and more.
 
 **Link to work:** [Puzzle App](https://github.com/Necritto/puzzle/commit/23e015ed270fbacc87f8ea2bd6ce6824f7ae0d22)
+
+
+
+### Day 3: January 4, 2020
+
+**Today's Progress**: Today I added styles to some blocks.
+
+**Thoughts:** Thinking over the design of the future application took most of the development time.
+
+**Link to work:** [Puzzle App](https://github.com/Necritto/puzzle/commit/a52486111bbcc27fc35e3d36b1a6e06cbf533045)
+
+
+
