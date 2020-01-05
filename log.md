@@ -40,3 +40,13 @@
 
 
 
+### Day 4: January 5, 2020
+
+**Today's Progress**: Today I finished working with styles.
+
+**Thoughts:** I will need to think about the design after adding the functional part.
+
+**Link to work:** [Puzzle App](https://github.com/Necritto/puzzle/commit/cac2bd0b6714f46a1147bd1194d90aec9b9260a1)
+
+
+
