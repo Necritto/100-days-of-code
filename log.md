@@ -50,3 +50,13 @@
 
 
 
+### Day 5: January 6, 2020
+
+**Today's Progress**: Today I redid the design of the app, added functionality, the appearance of the workspace and tooltips.
+
+**Thoughts:** Need to be developed with preprocessor for css.
+
+**Link to work:** [Puzzle App](https://github.com/Necritto/puzzle/commit/3a2a4874cdfea5a9f9243e0921a5c4b4b1c4c8f4)
+
+
+
