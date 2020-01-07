@@ -60,3 +60,13 @@
 
 
 
+### Day 6: January 7, 2020
+
+**Today's Progress**: Today I made a slider to store puzzle pieces and added the ability to drag and drop these pieces.
+
+**Thoughts:** All the functions that I wanted to implement in the app are ready. It remains to fix all the bugs.
+
+**Link to work:** [Puzzle App](https://github.com/Necritto/puzzle/commit/eaceef9f524ed1445b7caf9b00a22bf13b3a60d2)
+
+
+
