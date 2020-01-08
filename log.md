@@ -70,3 +70,13 @@
 
 
 
+### Day 7: January 8, 2020
+
+**Today's Progress**: Today I fixed a bug with indentation in the slider and made the dropzone search function.
+
+**Thoughts:** There was a problem writing the Dropzone logic.
+
+**Link to work:** [Puzzle App](https://github.com/Necritto/puzzle/pull/11/commits/3d26e48d4543a268715edeaaec22e15399d4761b)
+
+
+
