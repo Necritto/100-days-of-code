@@ -80,3 +80,13 @@
 
 
 
+### Day 8: January 9, 2020
+
+**Today's Progress**: Today I fixed a drop error anywhere on the page.
+
+**Thoughts:** There was a problem with the dropzone, but so far I can’t solve it.
+
+**Link to work:** [Puzzle App](https://github.com/Necritto/puzzle/commit/ae38c485ba297e70729dfa4c0fc0f284a5963599)
+
+
+
