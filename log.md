@@ -90,3 +90,13 @@
 
 
 
+### Day 9: January 10, 2020
+
+**Today's Progress**: Today I started developing a travel agency website. Created the basic structure of the project and connected webpack.
+
+**Thoughts:** This time I will use scss.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency)
+
+
+
