@@ -100,3 +100,13 @@
 
 
 
+### Day 10: January 11, 2020
+
+**Today's Progress**: Today I made a markup of the site header and added the basic rules scss.
+
+**Thoughts:** There was a problem checking the layout of the form.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/624e018f62a731ed8e8a252b8290c4d6e406c13e)
+
+
+
