@@ -110,3 +110,13 @@
 
 
 
+### Day 11: January 12, 2020
+
+**Today's Progress**: Today I added styles for the site header.
+
+**Thoughts:** Creating a website from a layout with a higher resolution than your monitor supports is inconvenient.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/c6263ad23e7c365038ff5494cbe6711768012e34)
+
+
+
