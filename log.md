@@ -120,3 +120,13 @@
 
 
 
+### Day 12: January 13, 2020
+
+**Today's Progress**: Today I implemented layout and styles for two sections.
+
+**Thoughts:** Creating a website from a layout with a higher resolution than your monitor supports is inconvenient.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/f01ce53d6704dcb9e5756ac729fec6e0e6ce6d5f)
+
+
+
