@@ -130,3 +130,10 @@
 
 
 
+### Day 13: January 14, 2020
+
+**Today's Progress**: Today I made the layout and stylization of the main and footer of the site.
+
+**Thoughts:** Let the adaptive begin!
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/3edd76a50f9bb3cc5ef688c7c9da77bdb5cb6a15)
