@@ -137,3 +137,16 @@
 **Thoughts:** Let the adaptive begin!
 
 **Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/3edd76a50f9bb3cc5ef688c7c9da77bdb5cb6a15)
+
+
+
+### Day 14: January 15, 2020
+
+**Today's Progress**: Today I made adaptability to two points of design breakthrough.
+
+**Thoughts:** Next time I need to try the rubber layout.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/f94174f9f9bb81e258dbb662878d706574c4438a)
+
+
+
