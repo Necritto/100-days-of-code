@@ -150,3 +150,14 @@
 
 
 
+
+### Day 15: January 16, 2020
+
+**Today's Progress**: Today I completed media queries for large and medium screens.
+
+**Thoughts:** Next time I need to try the rubber layout.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/69b008d5fe2ac6b7e78a43d3035cf0f8b92d764a)
+
+
+
