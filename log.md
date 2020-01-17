@@ -161,3 +161,13 @@
 
 
 
+### Day 16: January 17, 2020
+
+**Today's Progress**: Today I made a menu for mobile phones and adaptability for tablets in portrait mode.
+
+**Thoughts:** Next time I need to try the rubber layout!!!
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/1707f92ebb1edf6e9fecdfab6ebecbbe75fef76e)
+
+
+
