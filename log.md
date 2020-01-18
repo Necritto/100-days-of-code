@@ -171,3 +171,14 @@
 
 
 
+
+### Day 17: January 18, 2020
+
+**Today's Progress**: Today I finished adaptability.
+
+**Thoughts:** It's time to start website dynamics.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/2dbaa8437dd8017ab576e935ad944c9d1f324a67)
+
+
+
