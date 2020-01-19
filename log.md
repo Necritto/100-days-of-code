@@ -182,3 +182,12 @@
 
 
 
+### Day 18: January 19, 2020
+
+**Today's Progress**: Today I did a show of additional menu items when clicked and the frame of the modal login window.
+
+**Thoughts:** JS is awesome.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/7085e69713f71161fd04fff5b11924eebe98e038)
+
+
