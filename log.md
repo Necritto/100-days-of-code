@@ -191,3 +191,13 @@
 **Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/7085e69713f71161fd04fff5b11924eebe98e038)
 
 
+### Day 19: January 20, 2020
+
+**Today's Progress**: Today an authorization form has been implemented and its validation.
+
+**Thoughts:** Starting a fight with positioning.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/0f9b26c6f390510dc85a8f777d26455726269d56)
+
+
+
