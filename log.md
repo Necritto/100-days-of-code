@@ -201,3 +201,10 @@
 
 
 
+### Day 20: January 21, 2020
+
+**Today's Progress**: Today I positioned an additional menu and validation error messages.
+
+**Thoughts:** Positioning was defeated.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/5b935fa5e0f4a8d299a051477c16664abe62f4d4)
