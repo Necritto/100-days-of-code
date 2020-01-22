@@ -208,3 +208,13 @@
 **Thoughts:** Positioning was defeated.
 
 **Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/5b935fa5e0f4a8d299a051477c16664abe62f4d4)
+
+
+
+### Day 21: January 22, 2020
+
+**Today's Progress**: Today I did a little refactoring of the code and added a registration form.
+
+**Thoughts:** There was a problem with positioning in a new form, as well as a problem with validating the old one.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/9540c774c5081e94580d15d214e01ba66ae50c26)
