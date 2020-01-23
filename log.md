@@ -218,3 +218,16 @@
 **Thoughts:** There was a problem with positioning in a new form, as well as a problem with validating the old one.
 
 **Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/9540c774c5081e94580d15d214e01ba66ae50c26)
+
+
+
+### Day 22: January 23, 2020
+
+**Today's Progress**: Today I fixed errors in positioning and form validation.
+
+**Thoughts:** Positioning behind, working with API in front.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/b50e3c94b8e3ee641f1a5d5d985f073d26100c84)
+
+
+
