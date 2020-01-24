@@ -231,3 +231,13 @@
 
 
 
+### Day 23: January 24, 2020
+
+**Today's Progress**: Today I redid the search form and tried to revive it.
+
+**Thoughts:** There are no ideas how to implement the logic of the search form.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/535d1b3b4b646266e4049e5fbb3503a13121af5b)
+
+
+
