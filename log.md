@@ -241,3 +241,14 @@
 
 
 
+
+### Day 24: January 25, 2020
+
+**Today's Progress**: Today I worked with sending data to the server and the weather API.
+
+**Thoughts:** Soon I will have to rewrite adaptive.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/1a9f64d37f6ed2bc17c76726ce29aeb5c225f5c2)
+
+
+
