@@ -252,3 +252,13 @@
 
 
 
+### Day 25: January 26, 2020
+
+**Today's Progress**: Today I realized a fake display of airplanes and hotels + a choice of cities in the corresponding section.
+
+**Thoughts:** Due to poor layout design, I have to think over everything and find it myself.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/18b311b69f3c672d199ddf626b0dd731cf45f731)
+
+
+
