@@ -262,3 +262,10 @@
 
 
 
+### Day 26: January 27, 2020
+
+**Today's Progress**: Today I added the ability to choose the type of vacation spot.
+
+**Thoughts:** The final battle with adaptive will take place tomorrow.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/a2a8f2bad9b6877b95f5197c1f690f27a1fd1ad1)
