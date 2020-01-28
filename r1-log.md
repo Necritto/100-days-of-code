@@ -12,3 +12,6 @@ The application is ready. There’s one bug that I can’t fix, but I’ll be ba
 
 ### R2D10
 Started a Travel agency website.
+
+### R2D28
+Frontend part of the site is ready.
