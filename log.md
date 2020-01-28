@@ -269,3 +269,17 @@
 **Thoughts:** The final battle with adaptive will take place tomorrow.
 
 **Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/a2a8f2bad9b6877b95f5197c1f690f27a1fd1ad1)
+
+
+
+### Day 27: January 28, 2020
+
+**Today's Progress**: Today the adaptive has been fixed and the frontend part is ready.
+
+**Thoughts:** There were no other pages of the site in the design layout, so I did just what it was.
+
+**Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency)
+
+
+
+
