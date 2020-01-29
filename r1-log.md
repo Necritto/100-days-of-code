@@ -15,3 +15,6 @@ Started a Travel agency website.
 
 ### R2D28
 Frontend part of the site is ready.
+
+### R3D29
+Started the development of the game Arkanoid.
