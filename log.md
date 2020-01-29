@@ -282,4 +282,10 @@
 
 
 
+### Day 28: January 29, 2020
 
+**Today's Progress**: Today I started a new project to create an arkanoid on canvas.
+
+**Thoughts:** There was a problem with changing coordinates when pressing keys.
+
+**Link to work:** [Arkanoid](https://github.com/Necritto/arkanoid/commit/e6eed804d4eb8382c0383b41830ace5c9084bfde)
