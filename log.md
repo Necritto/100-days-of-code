@@ -289,3 +289,16 @@
 **Thoughts:** There was a problem with changing coordinates when pressing keys.
 
 **Link to work:** [Arkanoid](https://github.com/Necritto/arkanoid/commit/e6eed804d4eb8382c0383b41830ace5c9084bfde)
+
+
+
+### Day 29: January 30, 2020
+
+**Today's Progress**: Today I fixed a bug with the movement of the platform, added a player and grid of enemies.
+
+**Thoughts:** The mathematics of positioning makes me suffer.
+
+**Link to work:** [Arkanoid](https://github.com/Necritto/arkanoid/commit/af5123a3ea63b4ae3b61a738cc33b70ec94bd76f)
+
+
+
