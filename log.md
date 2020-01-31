@@ -302,3 +302,13 @@
 
 
 
+### Day 30: January 31, 2020
+
+**Today's Progress**: Today I implemented the ball and pushing it away from walls and blocks. Blocks became destructible.
+
+**Thoughts:** The conditions are very simple and, at the same time, difficult.
+
+**Link to work:** [Arkanoid](https://github.com/Necritto/arkanoid/commit/007f291fa60f72aa473d97dcd2ac37f79a281934)
+
+
+
