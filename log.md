@@ -312,3 +312,13 @@
 
 
 
+### Day 31: February 01, 2020
+
+**Today's Progress**: Today I made a block map, the simplest physics of ball movement, and implemented a point and life counter.
+
+**Thoughts:** Implemented a basic arkanoid on canvas. Next, I am waiting for its stylization, error correction and expansion of functions.
+
+**Link to work:** [Arkanoid](https://github.com/Necritto/arkanoid/commit/cd14d775563cd8ff5b0bacc9ff404bc75a2b4f25)
+
+
+
