@@ -322,3 +322,13 @@
 
 
 
+### Day 32: February 02, 2020
+
+**Today's Progress**: Today I fixed some bugs and thought out a further improvement.
+
+**Thoughts:** Today I studied more theory about canvas and tried some features, but so far they are not worth committing.
+
+**Link to work:** [Arkanoid](https://github.com/Necritto/arkanoid/commit/16f7c5baa67342ab64c8f89584330f65e1c80076)
+
+
+
