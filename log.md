@@ -332,3 +332,13 @@
 
 
 
+### Day 33: February 03, 2020
+
+**Today's Progress**: Today I fixed errors when losing, added winning logic and a pseudo-random maps pseudo-generator.
+
+**Thoughts:** Pseudo-random maps pseudo-generator)).
+
+**Link to work:** [Arkanoid](https://github.com/Necritto/arkanoid/commit/37faf690af2f7d37d89b65b98f50b3c07d914743)
+
+
+
