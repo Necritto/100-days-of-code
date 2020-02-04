@@ -342,3 +342,14 @@
 
 
 
+
+### Day 34: February 04, 2020
+
+**Today's Progress**: Today I made level maps and an update after winning.
+
+**Thoughts:** Need to redesign.
+
+**Link to work:** [Arkanoid](https://github.com/Necritto/arkanoid/commit/b183f48c665c5e18f351a153bafd6d91e9927df5)
+
+
+
