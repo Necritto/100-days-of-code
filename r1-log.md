@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - [Necritto]
 
 The log of my #100DaysOfCode challenge. Started on [January 1, Wednesday, 2020].
 
@@ -18,3 +18,6 @@ Frontend part of the site is ready.
 
 ### R3D29
 Started the development of the game Arkanoid.
+
+### R3D36
+Base Arkanoid created.
