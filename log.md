@@ -353,3 +353,13 @@
 
 
 
+### Day 35: February 05, 2020
+
+**Today's Progress**: Today I managed to find and fix a bug with a loss and make a redesign.
+
+**Thoughts:** Base Arkanoid created.
+
+**Link to work:** [Arkanoid](https://necritto.github.io/arkanoid/)
+
+
+
