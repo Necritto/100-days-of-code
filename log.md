@@ -363,3 +363,13 @@
 
 
 
+### Day 36: February 06, 2020
+
+**Today's Progress**: Today, work has begun on a multi-page website project using a pug.
+
+**Thoughts:** Pug looks cool))).
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus)
+
+
+
