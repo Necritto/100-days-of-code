@@ -21,3 +21,6 @@ Started the development of the game Arkanoid.
 
 ### R3D36
 Base Arkanoid created.
+
+### R4D37
+The development of a multi-page site has begun.
