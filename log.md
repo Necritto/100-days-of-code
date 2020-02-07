@@ -373,3 +373,13 @@
 
 
 
+### Day 37: February 07, 2020
+
+**Today's Progress**: Today I studied a pug and made a website header on it.
+
+**Thoughts:** Cycles with a condition in a pug are just a gun.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/c867a8ae38405dd05e5c3540af9f677cb024f64f)
+
+
+
