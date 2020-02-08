@@ -383,3 +383,13 @@
 
 
 
+### Day 38: February 08, 2020
+
+**Today's Progress**: Today I set the styles for the site title.
+
+**Thoughts:** I had to tinker with styles.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/4f9b93098fe278fa3dfb9b18e8e21c035db5be4e)
+
+
+
