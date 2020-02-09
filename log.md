@@ -393,3 +393,12 @@
 
 
 
+### Day 39: February 09, 2020
+
+**Today's Progress**: Today I made a slider and stylized it. It remains to add logic.
+
+**Thoughts:** Work takes more time.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/1ab9d82171e498e114b752cff22f42ae3e3277fa)
+
+
