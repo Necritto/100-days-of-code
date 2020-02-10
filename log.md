@@ -160,7 +160,7 @@
 **Link to work:** [Get2 Website](https://github.com/Necritto/get2_agency/commit/69b008d5fe2ac6b7e78a43d3035cf0f8b92d764a)
 
 
-
+he 
 ### Day 16: January 17, 2020
 
 **Today's Progress**: Today I made a menu for mobile phones and adaptability for tablets in portrait mode.
@@ -400,5 +400,16 @@
 **Thoughts:** Work takes more time.
 
 **Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/1ab9d82171e498e114b752cff22f42ae3e3277fa)
+
+
+
+### Day 40: February 10, 2020
+
+**Today's Progress**: Today I created a monster, and his name is a slider.
+
+**Thoughts:** It seems to me that the slider turned out to be a crutch.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/f978f5106e8a2175ce7fcc7d4a6a315bdc2cbac4)
+
 
 
