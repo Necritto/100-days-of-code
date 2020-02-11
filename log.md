@@ -413,3 +413,13 @@ he
 
 
 
+### Day 41: February 11, 2020
+
+**Today's Progress**: Today I made and developed the services section.
+
+**Thoughts:** I finally figured out flexes.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/2675fe31ba0d7c041fb9cb719c4b0606d42b6755)
+
+
+
