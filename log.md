@@ -423,3 +423,13 @@ he
 
 
 
+### Day 42: February 12, 2020
+
+**Today's Progress**: Today I made up and stylized the first half of the why section.
+
+**Thoughts:** The next step is the slider hover effect on js.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/b5d36892a2ae752a33127bd4f4bb871eeb548f22)
+
+
+
