@@ -433,3 +433,13 @@ he
 
 
 
+### Day 43: February 13, 2020
+
+**Today's Progress**: Today I made several improvements in the why section.
+
+**Thoughts:** Iterations in the pug forced to read the documentation.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/8a5dff5e14caf0b43bb52ec9e6bca2d2ecf81ef4)
+
+
+
