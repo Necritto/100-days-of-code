@@ -443,3 +443,13 @@ he
 
 
 
+### Day 44: February 14, 2020
+
+**Today's Progress**: Today I finished the why section and stylized it.
+
+**Thoughts:** I had to tinker with SVG.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/53e8b6fefee06d8b53af87bb7f933c5958749e85)
+
+
+
