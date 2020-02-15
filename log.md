@@ -453,3 +453,10 @@ he
 
 
 
+### Day 45: February 15, 2020
+
+**Today's Progress**: Today I made the last section in the main section of the site, but I could not finish the slider to the end.
+
+**Thoughts:** Accidentally made a merge in the master branch!
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/e387235d0775ea80b1dec4af51150755a0861c04)
