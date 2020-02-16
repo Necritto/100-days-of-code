@@ -460,3 +460,16 @@ he
 **Thoughts:** Accidentally made a merge in the master branch!
 
 **Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/e387235d0775ea80b1dec4af51150755a0861c04)
+
+
+
+### Day 46: February 16, 2020
+
+**Today's Progress**: Today I implemented footer markup.
+
+**Thoughts:** Need to come up with a mixin implementation to generate the table.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/98889e65817083dcf014946ab82de573dc9667b2)
+
+
+
