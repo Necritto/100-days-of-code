@@ -473,3 +473,13 @@ he
 
 
 
+### Day 47: February 17, 2020
+
+**Today's Progress**: Today I redid the layout and added footer styles.
+
+**Thoughts:** Due to a merge error, I can’t resolve the conflicts.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/027437b43643b482da47eabb10dc1850b117f437)
+
+
+
