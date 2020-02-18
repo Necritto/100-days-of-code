@@ -483,3 +483,13 @@ he
 
 
 
+### Day 48: February 18, 2020
+
+**Today's Progress**: Today I made some corrections and redid the client slider.
+
+**Thoughts:** Make adaptive or make everything to the end?
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/8dd0fb68a2625f4e0c1ff0d4a67aac848df71d32)
+
+
+
