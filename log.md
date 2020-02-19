@@ -493,3 +493,13 @@ he
 
 
 
+### Day 49: February 19, 2020
+
+**Today's Progress**: Today I made half an 'about' page.
+
+**Thoughts:** I have to redo the pieces of code to use them again.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/b28a67636ff8af07580443c6ea4a27411c848236)
+
+
+
