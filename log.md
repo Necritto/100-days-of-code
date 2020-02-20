@@ -503,3 +503,14 @@ he
 
 
 
+
+### Day 50: February 20, 2020
+
+**Today's Progress**: Today I finished the page about.
+
+**Thoughts:** Adaptive will be added at the end, because now I understand that I will have to redo large blocks of code.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/b28a67636ff8af07580443c6ea4a27411c848236)
+
+
+
