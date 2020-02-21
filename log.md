@@ -514,3 +514,13 @@ he
 
 
 
+### Day 51: February 21, 2020
+
+**Today's Progress**: Today I made markup and added styles for the portfolio, page 1.
+
+**Thoughts:** I noticed that on other pages the styles fell off. Tomorrow I will need to fix it.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/c246817085033ad3e9ab0a9994c277798acd58c7)
+
+
+
