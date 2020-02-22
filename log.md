@@ -524,3 +524,13 @@ he
 
 
 
+### Day 52: February 22, 2020
+
+**Today's Progress**: Today I tried to implement post-generation and transition to a new page, but so far to no avail.
+
+**Thoughts:** It is worth trying to do the generation based on requests to the server and display the responses as posts.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/e63a94023c2cfca4a05447ed1f58c824fa4d4ab8)
+
+
+
