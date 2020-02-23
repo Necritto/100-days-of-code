@@ -534,3 +534,13 @@ he
 
 
 
+### Day 53: February 23, 2020
+
+**Today's Progress**: Today I implemented the reception of posts from the server.
+
+**Thoughts:** So far, I have not figured out how to transfer additional posts to new pages.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/15adf68b47a85d493060afecb7f7e62bfd337798)
+
+
+
