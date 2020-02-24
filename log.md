@@ -544,3 +544,13 @@ he
 
 
 
+### Day 54: February 24, 2020
+
+**Today's Progress**: Today I tried to paginate.
+
+**Thoughts:** Faced Firefox Errors.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/14791f44c316817485bf0ef606ccc9d75bd15f89)
+
+
+
