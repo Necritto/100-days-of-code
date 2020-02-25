@@ -554,3 +554,13 @@ he
 
 
 
+### Day 55: February 25, 2020
+
+**Today's Progress**: Today I implemented pagination, but there was a problem with hiding pages.
+
+**Thoughts:** The problem was only in Firefox, and it was resolved by refusing to split one function into two smaller ones.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/ae549b8eb4672a9acf580c7549ba30c2c4dcc76a)
+
+
+
