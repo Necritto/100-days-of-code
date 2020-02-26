@@ -564,3 +564,13 @@ he
 
 
 
+### Day 56: February 26, 2020
+
+**Today's Progress**: Today I tried to switch pages using the back and forward buttons. Switching works, but so far I can’t figure out how to hide some pages and show others.
+
+**Thoughts:** Problem with the dots button. It is in the same container as the others. If I give all the buttons an additional class, then perhaps you can play with the display of adjacent buttons before this one.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/e032c39470494a1b37a2f64945e412d4e21f001c)
+
+
+
