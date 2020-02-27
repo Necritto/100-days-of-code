@@ -574,3 +574,13 @@ he
 
 
 
+### Day 57: February 27, 2020
+
+**Today's Progress**: Today I implemented arrow navigation.
+
+**Thoughts:** Navigation works only from the first to the last item. I must fix this behavior.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/c05c0d597c2443003ba84b21fd22f34210d3b255)
+
+
+
