@@ -584,3 +584,13 @@ he
 
 
 
+### Day 58: February 28, 2020
+
+**Today's Progress**: Today I tried to solve the problem with navigation, but nothing came of it.
+
+**Thoughts:** I have no idea how to solve this case. Since I did not make commits attempts, I had to commit a description of my actions.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/28d6c34ead4c5ad340e48c690a5b9c878fd98938)
+
+
+
