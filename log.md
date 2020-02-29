@@ -594,3 +594,13 @@ he
 
 
 
+### Day 59: February 29, 2020
+
+**Today's Progress**: Today I managed to solve the problem of switching pages using the navigation buttons, but there was a problem of losing results when I click on the page buttons themselves.
+
+**Thoughts:** It is necessary to check the clicking on the page buttons and update the counter in accordance with the page number.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/a7161b42f8b756a04c1afd1073f7d3c8e1884876)
+
+
+
