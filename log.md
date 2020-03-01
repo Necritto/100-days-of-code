@@ -604,3 +604,13 @@ he
 
 
 
+### Day 60: March 01, 2020
+
+**Today's Progress**: Today I handled the case of pressing a button, but there was a problem with the buttons after the dots and when switching pages back and forth after pressing any other button.
+
+**Thoughts:** When new problems with pagination appear, I begin to think that it would be better to use jquery.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/a0903ad35fe70b78f1e7000beef414aa9c9849f6)
+
+
+
