@@ -614,3 +614,13 @@ he
 
 
 
+### Day 61: March 02, 2020
+
+**Today's Progress**: Today I use the right to skip one day, since the main work took all my strength, and there is no strength to focus on tasks.
+
+**Thoughts:** It's time to quit and get a job as a junior developer at some company).
+
+**Link to work:** No ref today.
+
+
+
