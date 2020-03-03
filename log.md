@@ -624,3 +624,13 @@ he
 
 
 
+
+### Day 62: March 03, 2020
+
+**Today's Progress**: Today I partially solved the problem with pagination.
+
+**Thoughts:** I will return to pagination when I finish the rest of the cases.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/9bffd00edb13b47da66694c641e3508f0109cdd3)
+
+
