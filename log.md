@@ -634,3 +634,14 @@ he
 **Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/9bffd00edb13b47da66694c641e3508f0109cdd3)
 
 
+
+### Day 63: March 04, 2020
+
+**Today's Progress**: Today I tried to do post-filtering.
+
+**Thoughts:** I can’t figure out how to make filtering work.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/f6ca3ba51882ecc4a5c7d164a20c228e776f3dca)
+
+
+
