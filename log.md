@@ -645,3 +645,13 @@ he
 
 
 
+### Day 64: March 05, 2020
+
+**Today's Progress**: Today I managed to perform the filtering, but having implemented it, I broke the navigation.
+
+**Thoughts:** Perhaps the root of navigation problems lies in e.target.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/91209bdd3a3d8d7ac7bcd245b03ac3cceed61e2d)
+
+
+
