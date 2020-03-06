@@ -655,3 +655,13 @@ he
 
 
 
+### Day 65: March 06, 2020
+
+**Today's Progress**: Today I fixed navigation errors with filtering turned on and made a preloader.
+
+**Thoughts:** The navigation issue was related to event passing.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/ad21012dc725f110a3ec7a0225aa8c8a4005469d)
+
+
+
