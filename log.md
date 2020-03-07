@@ -665,3 +665,13 @@ he
 
 
 
+### Day 66: March 07, 2020
+
+**Today's Progress**: Today I made an 80% page with a portfolio display in two columns.
+
+**Thoughts:** The catastrophic lack of free time does not allow me to do my project more time.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/d8d04632852a5895dab3beee191ba29bc0c7f5a1)
+
+
+
