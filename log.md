@@ -675,3 +675,13 @@ he
 
 
 
+### Day 67: March 08, 2020
+
+**Today's Progress**: Today I completed the portfolio page with two columns.
+
+**Thoughts:** It is necessary to refactor the js code, since the style of spaghetti is already the last century.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/a434b3c02f965766434f615191b6753c419a254f)
+
+
+
