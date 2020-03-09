@@ -685,3 +685,14 @@ he
 
 
 
+
+### Day 68: March 09, 2020
+
+**Today's Progress**: Today I made a page with a three-column display of posts and tried to make a description page for each individual post.
+
+**Thoughts:** I cannot display individual posts when I click on the corresponding button.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/c8cbc154dfb2c799b19515b6fa3067780b13943c)
+
+
+
