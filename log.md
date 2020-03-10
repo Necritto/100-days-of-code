@@ -696,3 +696,13 @@ he
 
 
 
+### Day 69: March 10, 2020
+
+**Today's Progress**: Today I made a static page for a specific portfolio.
+
+**Thoughts:** I feel that adaptive will do oh how not easy.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/e7b0f0e3158bac2f0cc6cb167aaf3a2c72e0ad21)
+
+
+
