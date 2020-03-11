@@ -706,3 +706,13 @@ he
 
 
 
+### Day 70: March 11, 2020
+
+**Today's Progress**: Today I completed a static page with a specific portfolio.
+
+**Thoughts:** I don’t know how to make it dynamically loaded.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/c0778fb6f7b2ace2d50b19edb7b0171a8d520b53)
+
+
+
