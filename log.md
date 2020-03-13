@@ -726,3 +726,13 @@ he
 
 
 
+### Day 72: March 13, 2020
+
+**Today's Progress**: Today I styled a blog page.
+
+**Thoughts:** Question: where to get data for post-generation?
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/c499f4e9f59c8c50d283024f4939896a83c7440d)
+
+
+
