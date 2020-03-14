@@ -736,3 +736,13 @@ he
 
 
 
+### Day 73: March 14, 2020
+
+**Today's Progress**: Today I did a little refactoring, made a block with a post-picture and made markup + basic logic of the video player.
+
+**Thoughts:** Question: where to get data for post-generation?
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/18c3b575155d1d241e680fd7aac0cd09a20afaa4)
+
+
+
