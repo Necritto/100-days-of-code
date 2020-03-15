@@ -746,3 +746,14 @@ he
 
 
 
+
+### Day 74: March 15, 2020
+
+**Today's Progress**: Today I finished the video player and made a block with a post quote.
+
+**Thoughts:** Styling a progress tag wasn’t as easy as I thought.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/25cfc784eb7921b9e293588c5a79e61d179569ad)
+
+
+
