@@ -757,3 +757,13 @@ he
 
 
 
+### Day 75: March 16, 2020
+
+**Today's Progress**: Today I finished work on the blog page.
+
+**Thoughts:** I don’t know how terrible my decisions look.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/91e1dc1d8d4be2acba567d401a90fe836eb0504f)
+
+
+
