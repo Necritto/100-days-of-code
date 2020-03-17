@@ -767,3 +767,13 @@ he
 
 
 
+### Day 76: March 17, 2020
+
+**Today's Progress**: Today I made a layout for single page of the blog and started working on the possibility of commenting.
+
+**Thoughts:** Will the challenge fail if I get coronavirus?
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/9912e6dcb7dc214e3943d8b58346105efc69c5b7)
+
+
+
