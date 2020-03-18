@@ -777,3 +777,13 @@ he
 
 
 
+### Day 77: March 18, 2020
+
+**Today's Progress**: Today I added one post to the page and added the ability to leave comments.
+
+**Thoughts:** Will the challenge fail if I get coronavirus?
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/9912e6dcb7dc214e3943d8b58346105efc69c5b7)
+
+
+
