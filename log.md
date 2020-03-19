@@ -787,3 +787,12 @@ he
 
 
 
+### Day 78: March 19, 2020
+
+**Today's Progress**: Today I made a section with sliders on the features page.
+
+**Thoughts:** I need to fix the behavior of multiple sliders on one page.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/d44c0f8e9ac93daf9f32e213299cc26a3c66460e)
+
+
