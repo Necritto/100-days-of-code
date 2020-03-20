@@ -796,3 +796,15 @@ he
 **Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/d44c0f8e9ac93daf9f32e213299cc26a3c66460e)
 
 
+
+
+### Day 79: March 20, 2020
+
+**Today's Progress**: Today I made an accordion slider for the information section.
+
+**Thoughts:** I need to fix the behavior of multiple sliders on one page.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/commit/53c88134bbcd50bb126b46a21a31d73477d2f076)
+
+
+
