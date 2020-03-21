@@ -808,3 +808,13 @@ he
 
 
 
+### Day 80: March 21, 2020
+
+**Today's Progress**: Today I completed the features page.
+
+**Thoughts:** The last page remains and the project is ready (without adaptive).
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/pull/14)
+
+
+
