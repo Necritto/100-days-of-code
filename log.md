@@ -818,3 +818,13 @@ he
 
 
 
+### Day 81: March 22, 2020
+
+**Today's Progress**: Today I finished the last page of the site, made some corrections and a fixed size of the content so that there was at least some semblance of adaptive.
+
+**Thoughts:** The following projects should be adaptive.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/pull/15)
+
+
+
