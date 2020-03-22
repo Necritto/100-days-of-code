@@ -24,3 +24,6 @@ Base Arkanoid created.
 
 ### R4D37
 The development of a multi-page site has begun.
+
+### R4D82
+Multi-page site created.
