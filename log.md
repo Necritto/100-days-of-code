@@ -824,7 +824,7 @@ he
 
 **Thoughts:** The following projects should be adaptive.
 
-**Link to work:** [MODUS versus](https://github.com/Necritto/modusVersus/pull/15)
+**Link to work:** [MODUS versus](https://necritto.github.io/modusVersus/dist/)
 
 
 
