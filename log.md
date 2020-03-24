@@ -838,3 +838,13 @@ he
 
 
 
+### Day 83: March 24, 2020
+
+**Today's Progress**: Today I made a dynamic change of questions and a component to complete the survey.
+
+**Thoughts:** It’s hard to get used to the absence of semicolons.
+
+**Link to work:** [MODUS versus](https://github.com/Necritto/react-quiz/commit/5d0ea34d05b138c6d3a5f2bf9036e65b5fbc2ffb)
+
+
+
