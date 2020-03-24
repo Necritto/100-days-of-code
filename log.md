@@ -834,7 +834,7 @@ he
 
 **Thoughts:** It’s hard to get used to the absence of semicolons.
 
-**Link to work:** [MODUS versus](https://github.com/Necritto/react-quiz/commit/5d0ea34d05b138c6d3a5f2bf9036e65b5fbc2ffb)
+**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/5d0ea34d05b138c6d3a5f2bf9036e65b5fbc2ffb)
 
 
 
@@ -844,7 +844,7 @@ he
 
 **Thoughts:** It’s hard to get used to the absence of semicolons.
 
-**Link to work:** [MODUS versus](https://github.com/Necritto/react-quiz/commit/8df91b9cda462e4db4c42f489f5919a661323be9)
+**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/8df91b9cda462e4db4c42f489f5919a661323be9)
 
 
 
