@@ -848,3 +848,13 @@ he
 
 
 
+### Day 84: March 25, 2020
+
+**Today's Progress**: Today I did the calculation of the survey results.
+
+**Thoughts:** It’s hard to get used to the absence of semicolons.
+
+**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/37d6d3fd7892fd15722e6bc76b25a00aa42bbe44)
+
+
+
