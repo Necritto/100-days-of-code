@@ -858,3 +858,13 @@ he
 
 
 
+### Day 85: March 26, 2020
+
+**Today's Progress**: Today I made button and menu components, as well as navigation, and added them to the old components.
+
+**Thoughts:** It’s hard to get used to the absence of semicolons.
+
+**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/446408aa780578940cb879eeafc522154862829d)
+
+
+
