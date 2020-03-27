@@ -868,3 +868,13 @@ he
 
 
 
+### Day 86: March 27, 2020
+
+**Today's Progress**: Today I implemented routing.
+
+**Thoughts:** It’s hard to get used to the absence of semicolons.
+
+**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/3f6971da20573a0a976d201fd6c91e6566fec25d)
+
+
+
