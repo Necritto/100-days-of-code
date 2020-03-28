@@ -884,7 +884,7 @@ he
 
 **Thoughts:** It’s hard to get used to the absence of semicolons.
 
-**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/3f6971da20573a0a976d201fd6c91e6566fec25d)
+**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/6a5e61abc9a89699973a564bbae406651d4af82f)
 
 
 
