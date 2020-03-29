@@ -888,3 +888,14 @@ he
 
 
 
+
+### Day 88: March 29, 2020
+
+**Today's Progress**: Today I started creating a quiz creation component.
+
+**Thoughts:** It is a pity that the new React.Fragment syntax does not allow the key attribute to be inserted into itself.
+
+**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/851610c9d13dba625a8993def9cd70f22edbef81)
+
+
+
