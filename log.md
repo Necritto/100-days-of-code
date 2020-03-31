@@ -899,13 +899,13 @@ he
 
 
 
-### Day 89: March 30, 2020
+### Day 90: March 31, 2020
 
-**Today's Progress**: Today I made a test creation page and finished the frontend part.
+**Today's Progress**: Today I made the opportunity to create quizes and save them in a database, as well as get a list of quizes and display them.
 
-**Thoughts:** It's time to make out the work with the server in the react.
+**Thoughts:** Challenge is almost over.
 
-**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/ca3a9df4bb67bb15f61910b0945ef6b03c62973a)
+**Link to work:** [React Quiz](https://github.com/Necritto/react-quiz/commit/77774a306b3f22df4640ed114f863e7bd909c93b)
 
 
 
