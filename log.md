@@ -909,3 +909,13 @@ he
 
 
 
+### Day 91: April 01, 2020
+
+**Today's Progress**: Today I finished work on the project, refactoring the code to work with redux.
+
+**Thoughts:** Challenge is almost over.
+
+**Link to work:** [React Quiz](https://react-quiz-ae296.firebaseapp.com/)
+
+
+
