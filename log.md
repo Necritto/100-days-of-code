@@ -929,3 +929,13 @@ he
 
 
 
+### Day 93: April 03, 2020
+
+**Today's Progress**: Today I made a universal component for displaying notifications, implemented a search component and cards.
+
+**Thoughts:** I will write with hooks.
+
+**Link to work:** [Github Search](https://github.com/Necritto/github-search/commit/7498be462fb514d98d66d244f61d8bf57768646d)
+
+
+
