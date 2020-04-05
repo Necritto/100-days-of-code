@@ -949,3 +949,13 @@ he
 
 
 
+### Day 95: April 05, 2020
+
+**Today's Progress**: Today I configured requests for api, made a display of the main page, the user and his repositories.
+
+**Thoughts:** Finished and deployed the application.
+
+**Link to work:** [Github Search](https://github-search-73140.web.app/)
+
+
+
