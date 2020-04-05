@@ -36,3 +36,6 @@ React Questionnaire created.
 
 ### R6D93
 Started a Github Search project.
+
+### R6D96
+Finished a Github Search project.
