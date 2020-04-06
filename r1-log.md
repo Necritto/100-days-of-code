@@ -39,3 +39,6 @@ Started a Github Search project.
 
 ### R6D96
 Finished a Github Search project.
+
+### R7D97
+Started a Social Network project.
