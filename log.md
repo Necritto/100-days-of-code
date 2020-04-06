@@ -959,3 +959,12 @@ he
 
 
 
+### Day 96: April 06, 2020
+
+**Today's Progress**: Today I started a new project to create a social network.
+
+**Thoughts:** The last project that I will do in the framework of the challenge and continue after its completion.
+
+**Link to work:** [Social Network](https://github.com/Necritto/social/tree/feature/layout)
+
+
