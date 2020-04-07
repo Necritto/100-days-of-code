@@ -968,3 +968,14 @@ he
 **Link to work:** [Social Network](https://github.com/Necritto/social/tree/feature/layout)
 
 
+
+### Day 97: April 07, 2020
+
+**Today's Progress**: Today I did a little refactoring and developed the design.
+
+**Thoughts:** The last project that I will do in the framework of the challenge and continue after its completion.
+
+**Link to work:** [Social Network](https://github.com/Necritto/social/commit/5d80aada1820e713478bbf9aa26a6c457101513b)
+
+
+
