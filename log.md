@@ -979,3 +979,15 @@ he
 
 
 
+
+
+### Day 98: April 08, 2020
+
+**Today's Progress**: Today I reworked the styles and added routing.
+
+**Thoughts:** The last project that I will do in the framework of the challenge and continue after its completion.
+
+**Link to work:** [Social Network](https://github.com/Necritto/social/commit/4f34977a5f5e8baf4fe60ada75172c91098fefca)
+
+
+
