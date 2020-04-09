@@ -979,8 +979,6 @@ he
 
 
 
-
-
 ### Day 98: April 08, 2020
 
 **Today's Progress**: Today I reworked the styles and added routing.
@@ -988,6 +986,16 @@ he
 **Thoughts:** The last project that I will do in the framework of the challenge and continue after its completion.
 
 **Link to work:** [Social Network](https://github.com/Necritto/social/commit/4f34977a5f5e8baf4fe60ada75172c91098fefca)
+
+
+
+### Day 99: April 09, 2020
+
+**Today's Progress**: Today I made a display of the list of interlocutors and made some changes to the routing and design.
+
+**Thoughts:** Tomorrow is the final day of the challenge since I missed one day.
+
+**Link to work:** [Social Network](https://github.com/Necritto/social/commit/f50cc01d99fb5144b19cb05930428d839c29e28a)
 
 
 
