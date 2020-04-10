@@ -42,3 +42,6 @@ Finished a Github Search project.
 
 ### R7D97
 Started a Social Network project.
+
+### R7D101
+Challenge is complete, but development continues.
