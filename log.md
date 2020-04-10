@@ -999,3 +999,10 @@ he
 
 
 
+### Day 100: April 10, 2020
+
+**Today's Progress**: Today I started introducing redux into the project.
+
+**Thoughts:** Challenge Passed!
+
+**Link to work:** [Social Network](https://github.com/Necritto/social/commit/c1df62d1cf898e3e6cc34150917ab8c869642a1b)
